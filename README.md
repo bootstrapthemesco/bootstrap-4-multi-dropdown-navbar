@@ -2,7 +2,8 @@
 ==========================
 
 
-Tested on Bootstrap 4.0.0-alpha.6 and jQuery v3.1.1
+Tested on Bootstrap 4.0.0-alpha.6 and jQuery v3.1.1. Check this [Demo](https://bootstrapthemes.co/demo/resource/bootstrap-4-multi-dropdown-navbar/)
+
 
 ## In Desktop
 ![desktop](https://raw.githubusercontent.com/bootstrapthemesco/bootstrap-4-multi-dropdown-navbar/master/desktop.png)
