@@ -4,7 +4,7 @@
     transform: rotate(-90deg);
 }
 
-@media (min-width: 767px) {
+@media (min-width: 991px) {
     .navbar-nav .dropdown-menu .caret {
         transform: rotate(-90deg);
     }
