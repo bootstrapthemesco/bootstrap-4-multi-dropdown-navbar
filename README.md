@@ -5,17 +5,12 @@
 Tested on Bootstrap 4.0.0-alpha.6 and jQuery v3.1.1
 
 ## In Desktop
-![]()
+![desktop](https://raw.githubusercontent.com/bootstrapthemesco/bootstrap-4-multi-dropdown-navbar/master/desktop.png)
 
 
-## IN Mobile device
-![]()
+## Mobile device
+![mobile](https://raw.githubusercontent.com/bootstrapthemesco/bootstrap-4-multi-dropdown-navbar/master/mobile.png)
 
-<div style="text-align:center;" align="center">
-    <img align="center" src="https://raw.githubusercontent.com/fontenele/bootstrap-navbar-dropdowns/master/printscreen.png" />
-    <hr />
-    <img align="center" width="400" style="width: 400px;margin: auto;" src="https://raw.githubusercontent.com/fontenele/bootstrap-navbar-dropdowns/master/printscreen-collapsed.png" />
-</div>
 
 ==========================
 
