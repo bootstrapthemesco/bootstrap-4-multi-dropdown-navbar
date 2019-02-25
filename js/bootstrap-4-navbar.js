@@ -9,6 +9,7 @@
 $( document ).ready( function () {
     $( '.dropdown-menu a.dropdown-toggle' ).on( 'click', function ( e ) {
         var $el = $( this );
+        $el.toggleClass('active-dropdown');
         var $parent = $( this ).offsetParent( ".dropdown-menu" );
         if ( !$( this ).next().hasClass( 'show' ) ) {
             $( this ).parents( '.dropdown-menu' ).first().find( '.show' ).removeClass( "show" );
@@ -20,6 +21,7 @@ $( document ).ready( function () {
 
         $( this ).parents( 'li.nav-item.dropdown.show' ).on( 'hidden.bs.dropdown', function ( e ) {
             $( '.dropdown-menu .show' ).removeClass( "show" );
+            $el.removeClass('active-dropdown');
         } );
         
          if ( !$parent.parent().hasClass( 'navbar-nav' ) ) {

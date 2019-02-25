@@ -2,7 +2,7 @@
 ==========================
 
 
-Tested on Bootstrap 4.0.0-alpha.6 and jQuery v3.1.1. Check this [Demo](https://bootstrapthemes.co/demo/resource/bootstrap-4-multi-dropdown-navbar/)
+Tested on Bootstrap 4.1.3 and jQuery v3.1.1. Check this [Demo](https://bootstrapthemes.co/demo/resource/bootstrap-4-multi-dropdown-navbar/)
 
 
 ## In Desktop
